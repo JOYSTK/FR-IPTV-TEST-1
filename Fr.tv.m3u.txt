@@ -1,0 +1,62 @@
+#EXTM3U
+#EXTINF:-1,TF1
+http://151.80.36.109:8000/live/test1/test1/200.ts
+#EXTINF:-1,France 2
+http://151.80.36.109:8000/live/test1/test1/202.ts
+#EXTINF:-1,France 3
+http://151.80.36.109:8000/live/test1/test1/203.ts
+#EXTINF:-1,LCI
+http://bhartie.getmyip.com:6004/main
+#EXTINF:-1,France 5
+http://151.80.36.109:8000/live/test1/test1/205.ts
+#EXTINF:-1,M6
+http://151.80.36.109:8000/live/test1/test1/201.ts
+#EXTINF:-1,Arte
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
+#EXTINF:-1,C8
+http://hls-live-m5-l3.canal-plus.com/live/hls/d8-clair-hd-and/and-hd-clair/index.m3u8
+#EXTINF:-1,Cstar
+http://hls-live-m5-l3.canal-plus.com/live/hls/d17-clair-hd-and/and-hd-clair/index.m3u8
+#EXTINF:-1,NRJ 12
+http://nrj-apple-live.adaptive.level3.net/apple/nrj/nrj/nrj12hi.m3u8
+#EXTINF:-1,Chérie 25
+http://nrj-apple-live.adaptive.level3.net/apple/nrj/nrjcheriehd/cherie25.m3u8
+#EXTINF:-1,i Télé
+http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8?t=6l4N587xh6fok5aox92hCg
+#EXTINF:-1,BFMTV
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+#EXTINF:-1,RMC Découverte
+http://streaming-hub.com/stream/rmc.m3u8
+#EXTINF:-1,M6 MUSIC HITS
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1,Action
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1,Toute l' Histoire
+http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1,Chasse et pêche
+http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0,20 - RTL9
+http://live-trl01.abweb.com/livetrl01/ngrp:rtl9.stream_bis/playlist.m3u8
+#EXTINF:0,20 - W9
+http://151.80.36.109:8000/live/test1/test1/212.ts
+#EXTINF:0,20 - TMC
+http://151.80.36.109:8000/live/test1/test1/274.ts
+#EXTINF:0,20 - NT1
+http://151.80.36.109:8000/live/test1/test1/207.ts
+#EXTINF:0,20 - HD1
+http://151.80.36.109:8000/live/test1/test1/209.ts
+#EXTINF:0,20 - POLAR
+http://live-m03.abweb.com/liveabm03/cinepolar.smil/chunklist_b1296000_slFRA.m3u8
+#EXTINF:0,20 - Animaux
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0,20 - SyFy
+http://live-m03.abweb.com/liveabm03/cinefx.smil/chunklist_b1296000_slFRA.m3u8
+#EXTINF:0,20 - BFMsport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-3.m3u8
+#EXTINF:0,20 - France24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_500.m3u8?wowzasessionid=553611154
+#EXTINF:0,21 - La chaîne normande
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+#EXTINF:0,22 - Fox Motorsport
+http://motorsport.hopto.org:8080/
+
